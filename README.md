@@ -2,11 +2,9 @@
 
 Data Analyst turning messy, real-world data into decisions a business can act on. I work across Python, SQL, R, Power BI, and Excel, with a focus on analysis that survives scrutiny, not just analysis that looks finished.
 
-**Currently:** completing a data analytics diploma at NIIT and the FTLAfrica Nova6 program, building toward remote data analyst roles.
+**Currently:** data analytics diploma coursework complete (NIIT), final exam pending. Graduated from the FTLAfrica Nova6 program. Building toward remote data analyst roles.
 
 ---
-
-### Projects
 
 ### Projects
 
@@ -19,7 +17,6 @@ Data Analyst turning messy, real-world data into decisions a business can act on
 | [Telco Churn Prediction](https://github.com/oluwapelumioyesanya/telco-churn-prediction) | Predict which customers will churn | Month-to-month + electronic check customers churn at 54%, nearly double the next segment | XGBoost, SHAP | — |
 | [Superstore Operational Efficiency](https://github.com/oluwapelumioyesanya/superstore-operational-efficiency-dashboard) | Executive dashboard for a board meeting | Flat YoY margin was masking discount-driven profit erosion, 2 product lines cost $117K | Power BI, DAX | [Notion](https://app.notion.com/p/3bb5420aae2d81c09c56ef27388a4eba) |
 | [Global Immunization Coverage](https://github.com/oluwapelumioyesanya/global-immunization-analysis) | Are countries hitting WHO's 90% vaccine coverage target | Global DTP3 coverage sits at 85%, missing target; West/Central Africa lags at 72% with 5.7M unvaccinated children | Python, Power BI | [Medium](https://medium.com/@oluwapelumioyesanya/20-million-children-one-dataset-heres-what-i-found-7b2c6ffe6316) |
-📝 [Read the write-up: "20 Million Children, One Dataset"](https://medium.com/@oluwapelumioyesanya/20-million-children-one-dataset-heres-what-i-found-7b2c6ffe6316) — the story behind the immunization coverage analysis
 
 ---
 
