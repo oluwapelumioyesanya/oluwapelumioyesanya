@@ -26,4 +26,4 @@ Data Analyst turning messy, real-world data into decisions a business can act on
 Python · R · SQL · Excel · Power BI · scikit-learn · Statistical Testing (A/B testing, hypothesis testing, power analysis) · Feature Engineering · SHAP Interpretability
 
 ### Let's connect
-[LinkedIn](https://www.linkedin.com/in/oluwapelumi-oyesanya) · abigaeloyesanya@gmail.com
+[LinkedIn](https://www.linkedin.com/in/oluwapelumi-oyesanya) · [Email](mailto:abigaeloyesanya@gmail.com)
